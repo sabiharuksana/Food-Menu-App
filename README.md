@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🍽️ Food Menu App
 
 This is a simple Food Menu web application built using React JS.
